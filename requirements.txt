@@ -1,0 +1,12 @@
+Flask
+gunicorn
+flask-cors
+numpy
+scikit-learn
+joblib
+joblib
+torch
+sentence-transformers
+gdown
+
+
